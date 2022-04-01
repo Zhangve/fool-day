@@ -1,0 +1,93 @@
+body{
+    background-color: chartreuse;
+}
+.start-word{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+}
+
+.imgDiv1{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+.imgDiv2{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+.imgDiv3{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+.because-you{
+    width: 300px;
+    height: 300px;
+}
+
+.imgDiv4{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+.worm-us{
+    width: 300px;
+    height: 300px;
+}
+
+.imgDiv5{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+.imgDiv6{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+.imgDiv7{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+.end1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.end2{
+    position: absolute;
+    top:30%;
+    left: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+.dont-love{
+    width: 300px;
+    height: 300px;
+}
